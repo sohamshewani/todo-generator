@@ -1,0 +1,6 @@
+click
+rich
+toml
+tabulate
+requests
+pytest
